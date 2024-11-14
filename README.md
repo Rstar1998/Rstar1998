@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Ross Carvalho. 
+I am Ross Carvalho. Currently pursuing my masters in Computer Science at Pace Unversity
 <!--
 **Rstar1998/Rstar1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rstar1998&show_icons=true&theme=onedark" alt="Rstar1998" />
+
+
+📈 Visitors count<br>
+
+ <img src="https://profile-counter.glitch.me/Rstar1998/count.svg" />
+
