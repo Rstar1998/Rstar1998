@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Ross Carvalho. Currently pursuing my masters in Computer Science at Pace Unversity
+I am Ross Carvalho. Currently pursuing my Masters in Computer Science at Pace Unversity
 
 ## ⚡️ A Few Quick Facts
 
@@ -11,7 +11,7 @@ I am Ross Carvalho. Currently pursuing my masters in Computer Science at Pace Un
   - 🛠 Platform engineering ( Devops + Cloud + MLOps )
   - 🤖 High Performace Computing 
 
-- 👯 I’m looking to venture into semiconductor industry and High performace computing segement
+- 👯 I’m looking to venture into semiconductor industry especially on High performace computing segement
 - 💬 Ask me about Python, ML , Docker , Cloud (AWS,GCP), Kubernetes, Deep learning , Microservices
 - 📙 Check out my [Resume](https://www.linkedin.com/in/ross-carvalho-3a3139176)
 - 🎉 Fun-Fact: I ❤️ Coffee
