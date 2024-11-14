@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Ross Carvalho. 
 <!--
 **Rstar1998/Rstar1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📈 my github stats
+📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rstar1998&show_icons=true&theme=gotham" alt="Rstar1998" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rstar1998&show_icons=true&theme=onedark" alt="Rstar1998" />
