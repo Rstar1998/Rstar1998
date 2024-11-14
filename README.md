@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 I am Ross Carvalho. Currently pursuing my masters in Computer Science at Pace Unversity
-<!--
-**Rstar1998/Rstar1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## ⚡️ A Few Quick Facts
 
