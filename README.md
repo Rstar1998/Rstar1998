@@ -19,12 +19,17 @@ I am Ross Carvalho. Currently pursuing my Masters in Computer Science at Pace Un
 
 📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rstar1998&show_icons=true&theme=onedark" alt="Rstar1998" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rstar1998&show_icons=true&theme=onedark" alt="Rstar1998" />
 
 
 📈 Visitors count
 
  <img src="https://profile-counter.glitch.me/Rstar1998/count.svg" />
+
+📈 Languages used
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rstar1998&layout=compact)
+
 
 
 
