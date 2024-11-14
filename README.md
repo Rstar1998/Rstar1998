@@ -22,7 +22,10 @@ I am Ross Carvalho. Currently pursuing my Masters in Computer Science at Pace Un
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rstar1998&show_icons=true&theme=onedark" alt="Rstar1998" />
 
 
-📈 Visitors count<br>
+📈 Visitors count
 
  <img src="https://profile-counter.glitch.me/Rstar1998/count.svg" />
+
+
+
 
