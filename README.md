@@ -10,7 +10,7 @@ I am Ross Carvalho. Currently pursuing my Masters in Computer Science at Pace Un
   - 🖼 Big data analytics and Data engineering
   - 🛠 Platform engineering ( Devops + Cloud + MLOps )
   - 🤖 High Performace Computing 
-
+- I ❤️ to participate in Hackathons / Datathons / Coding contests / Case study challenges 
 - 👯 I’m looking to venture into semiconductor industry especially on High performace computing segement
 - 💬 Ask me about Python, ML , Docker , Cloud (AWS,GCP), Kubernetes, Deep learning , Microservices
 - 📙 Check out my [Resume](https://www.linkedin.com/in/ross-carvalho-3a3139176)
