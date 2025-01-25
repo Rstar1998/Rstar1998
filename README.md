@@ -24,9 +24,14 @@ I am Ross Carvalho. Currently pursuing my Masters in Computer Science at Pace Un
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rstar1998&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rstar1998&theme=onedark)](https://github.com/Rstar1998)
+
+
+
 📈 Visitors count
 
  <img src="https://profile-counter.glitch.me/Rstar1998/count.svg" />
+
 
 📈 Languages and Tools
 
